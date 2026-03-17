@@ -5,3 +5,14 @@
   --color-secondary: #0593CA;
   --color-tertiary: #D5540C;
 }
+
+/* Fallback jika editor masih rewel */
+:root {
+  --primary: #FFEABF;
+  --secondary: #0593CA;
+  --tertiary: #D5540C;
+}
+
+html {
+  scroll-behavior: smooth;
+}
