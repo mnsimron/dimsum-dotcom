@@ -94,7 +94,7 @@ function Home() {
       </style>
 
       <main className="flex-grow relative z-10 flex flex-col">
-        <a href="https://wa.me" className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-2xl hover:scale-110 transition-all flex items-center group">
+        <a href="https://wa.me/081290158831" className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-2xl hover:scale-110 transition-all flex items-center group">
           <FaWhatsapp size={30} />
         </a>
 
